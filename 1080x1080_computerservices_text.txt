@@ -6,9 +6,9 @@
 #Reemplazo de #display.
 #Reemplazo de #baterias.
 
-Instalación de SISEMAS OPERATIVOS.
+Instalación de SISTEMAS OPERATIVOS.
 Instalación de programas.
-MAQUINAS VIRUALES
+MAQUINAS VIRTUALES
 Servidores de datos
 
 SOPORTE ONSITE Y REMOTO
